@@ -1,16 +1,11 @@
-  public class NewCode {
+public class NewCode {
+    public void doU() {}
+
+    public void doIt() {
+ 
+    }
 
     public NewCode() {}
-
-
-<<<<<<< Updated upstream
-    protected void doIt() {
-        System.out.println("DO IT!");
-    }
-}  
-=======
-    protected void toDo() {
         System.out.println("TO DO IT!");
     }
 } 
->>>>>>> Stashed changes
