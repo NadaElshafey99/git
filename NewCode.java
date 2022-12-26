@@ -1,5 +1,7 @@
 public class NewCode {
 
+    public void doU() {}
+
     public void doIt() {
  
     }
